@@ -203,3 +203,9 @@ select#difficulty {
         font-size: 1.1em;
     }
 }
+
+.logo{
+    margin: 40px;
+    font: bold;
+    color: #f98c8a;
+}
